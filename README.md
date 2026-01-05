@@ -5,8 +5,7 @@ Dataset credit:https://www.kaggle.com/datasets/dissfya/atp-tennis-2000-2023daily
 I always have wanted to build a machine learning model that can predict matches for games and sports like  chess,tennis and badminton etc.
 My goal of this project is to build a tennis match predictor.
 
-I got a accuracy of 80%+ for this model/
-
+I got a accuracy of 80%+ for this model.
 I used pandas and scikit-learn to build a Random Forest model.
 I used a dataset from kaggle for training this.
 
@@ -17,3 +16,5 @@ For the Score column, I did not apply a standard encoding technique.
 Instead, I parsed the match score text and engineered numerical features such as total games won, total games lost, number of sets played, and the absolute game difference. 
 This transforms unstructured score strings into structured numeric data that can be used by a machine learning model. This approach is best described as text-based feature engineering or domain-specific feature extraction rather than categorical encoding.
 I  used numeric features such as the players’ ranks (Rank_1, Rank_2), points (Pts_1, Pts_2), and betting odds (Odd_1, Odd_2) directly.
+
+I am new to machine learning.So it would be very helpful if you can correct my mistakes.
