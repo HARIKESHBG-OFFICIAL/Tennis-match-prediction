@@ -2,7 +2,7 @@
 Dataset credit:https://www.kaggle.com/datasets/dissfya/atp-tennis-2000-2023daily-pull
 
 
-I have wanted to build a machine learning model which could predict matches for a game or sport like  chess,tennis and badminton etc.
+I have wanted to build a machine learning model which could predict matches for games and sports like  chess,tennis and badminton etc.
 My goal of this project is to build a tennis match predictor.
 
 I used pandas and scikit-learn to build a Random Forest model.
