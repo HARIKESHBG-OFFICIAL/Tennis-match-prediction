@@ -5,7 +5,7 @@ Dataset credit:https://www.kaggle.com/datasets/dissfya/atp-tennis-2000-2023daily
 I always have wanted to build a machine learning model that can predict matches for games and sports like  chess,tennis and badminton etc.
 My goal of this project is to build a tennis match predictor.
 
-I got a accuracy of 80%+ for this model.
+I got a accuracy of 65%+ for this model.
 I used pandas and scikit-learn to build a Random Forest model.
 I used a dataset from kaggle for training this.
 
