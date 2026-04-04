@@ -7,7 +7,7 @@ My goal of this project is to build a tennis match predictor using Random FOr.
 I got a accuracy of 65%+ for this model. 
 ### Libraries
 -Pandas
--Sckit Learn
+-Scikit Learn
 
 I used a dataset from kaggle for training this.
 ### Feature Engineering & Encoding
