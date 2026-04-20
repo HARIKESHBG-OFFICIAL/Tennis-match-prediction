@@ -2,7 +2,7 @@
 Dataset credit:https://www.kaggle.com/datasets/dissfya/atp-tennis-2000-2023daily-pull
 
 ### Goal
-My goal of this project is to build a tennis match predictor using Random FOr.
+My goal of this project is to build a tennis match predictor using Random Forest.
 ### Accuracy
 I got a accuracy of 65%+ for this model. 
 ### Libraries
